@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.2.0](https://github.com/googleapis/google-cloud-node/compare/dialogflow-cx-v3.1.2...dialogflow-cx-v3.2.0) (2023-01-12)
+
+
+### Features
+
+* ResponseMessage proto contains channel information ([#3843](https://github.com/googleapis/google-cloud-node/issues/3843)) ([fef1c23](https://github.com/googleapis/google-cloud-node/commit/fef1c23fb0b2875090afec555f32efaa417b16e4))
+
 ## [3.1.2](https://github.com/googleapis/nodejs-dialogflow-cx/compare/v3.1.1...v3.1.2) (2022-11-11)
 
 
